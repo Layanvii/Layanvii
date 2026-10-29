@@ -8,11 +8,6 @@ Computer Information Systems student at Prince Sattam bin Abdulaziz University, 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layanvii&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Layanvii&show_icons=true&theme=transparent&hide_border=true&hide=issues&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## Projects
