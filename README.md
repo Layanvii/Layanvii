@@ -1,82 +1,62 @@
-<!-- Profile README for https://github.com/Layanvii -->
+## Layan Almatroody
 
-<div align="center">
+Software development, systems analysis, and applied AI. I build practical tools and explore computer vision projects, from university platforms to research-driven prototypes.
 
-# Layan Almatroody
+Computer Information Systems student at Prince Sattam bin Abdulaziz University, based in Saudi Arabia.
 
-### Software Developer · Systems Analyst · AI & Computer Vision
-
-I build practical software, explore AI-driven research, and turn ideas into useful products.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/layanalmatrood)
-[![GitHub](https://img.shields.io/badge/GitHub-Layanvii-181717?style=flat-square&logo=github)](https://github.com/Layanvii)
-
-</div>
+[LinkedIn](https://linkedin.com/in/layanalmatrood) · [GitHub](https://github.com/Layanvii)
 
 ---
 
-## About
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layanvii&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Layanvii&show_icons=true&theme=transparent&hide_border=true&hide=issues&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-- 🎓 BSc student in **Computer Information Systems** at Prince Sattam bin Abdulaziz University — expected 2028.
-- 🏅 **Saudi Patent SA 20448** for a digital visual diagnostic system using nail morphology.
-- 🥇 First place at **Munjam Al-Afkar Camp** for a Digital Instant Screening Technology project.
-- 🌐 Interested in software engineering, systems analysis, computer vision, and applied AI.
-- 🤝 Student leadership and technology community involvement, including **Oracle Student Ambassador**.
+---
 
-## Selected Projects
+## Projects
 
-### 🔬 Nail Health Analyzer
-A Python and Streamlit computer-vision prototype for image upload, nail-region cropping, image processing, and visual-feature exploration using OpenCV.
+### Nail Health Analyzer — computer vision prototype
+A Python and Streamlit prototype for uploading images, cropping nail regions, and exploring visual features with OpenCV.
 
-**Stack:** Python · Streamlit · OpenCV · NumPy  
-[Repository →](https://github.com/Layanvii/nail-health-analyzer)
+`Python` `Streamlit` `OpenCV` `NumPy`  
+[Source code](https://github.com/Layanvii/nail-health-analyzer)
 
-> Educational image-processing prototype only. Outputs are not clinically validated and are not intended for medical diagnosis. This project is not represented as the patented system.
+*Educational image-processing prototype only; outputs are not clinically validated and must not be used for diagnosis. This is not represented as the patented system.*
 
-### 🧩 HQ Tracker
-An attendance dashboard project with a separate, frontend-only portfolio demo using fictional sample data.
-
-**Stack:** JavaScript · Vite · HTML · CSS  
-[Live website →](https://hq.iecpsau.org/) · [Portfolio demo source →](https://github.com/Layanvii/hq-tracker-portfolio)
-
-### 💡 Innovation Hub
+### Innovation Hub — university platform
 A web platform for a university innovation and entrepreneurship club, organized as a workspace with a React/Vite website, Express API, shared libraries, and an Electron desktop wrapper.
 
-**Stack:** React · Vite · TypeScript · Express · Electron  
-[Repository →](https://github.com/Layanvii/innovation-hub-website2)
+`React` `TypeScript` `Vite` `Express` `Electron`  
+[Source code](https://github.com/Layanvii/innovation-hub-website2)
 
-### 🎮 Zombie Tuwaiq
-A zombie-survival game developed during a 60-hour game development and design course at Tuwaiq Academy, using Unity and C#.
+### HQ Tracker — attendance dashboard
+An attendance dashboard project. The public portfolio repository is a separate frontend-only demo with fictional sample data.
 
-**Stack:** Unity · C#  
-[Repository →](https://github.com/Layanvii/ZombieTuwaiq)
+`JavaScript` `Vite` `HTML` `CSS`  
+[Live website](https://hq.iecpsau.org/) · [Portfolio demo source](https://github.com/Layanvii/hq-tracker-portfolio)
 
-## Tech Stack
+### Zombie Tuwaiq — game development
+A zombie-survival game developed during a 60-hour game development and design course at Tuwaiq Academy.
 
-**Languages**  
-Python · Java · JavaScript · TypeScript · C#
+`Unity` `C#`  
+[Source code](https://github.com/Layanvii/ZombieTuwaiq)
 
-**Frameworks & Tools**  
-React · Vite · Streamlit · OpenCV · Express · Unity · Git
+---
 
-**Areas of Interest**  
-Software Engineering · Systems Analysis · Computer Vision · Applied AI
+## Stack
+
+| | |
+|---|---|
+| **Languages** | Python, Java, JavaScript, TypeScript, C# |
+| **Frontend** | React, HTML, CSS, Vite |
+| **AI & Computer Vision** | OpenCV, Streamlit, NumPy |
+| **Tools & Platforms** | Git, Unity, Electron |
 
 ## Highlights
 
-- 🏆 First place — Munjam Al-Afkar Camp, Digital Instant Screening Technology.
-- 🏅 Saudi Patent SA 20448 — Digital Visual Diagnostic System for Biomarker Analysis via Nail Morphology.
-- 🌍 Represented Saudi Arabia as a player on the national team at the IESF World Championship in Counter-Strike.
-- 🥇 First place — Tuwaiq Web Development Bootcamp final project.
-- 🚀 Oracle Student Ambassador and student technology-community contributor.
-
-## Connect
-
-- **LinkedIn:** [linkedin.com/in/layanalmatrood](https://linkedin.com/in/layanalmatrood)
-- **GitHub:** [@Layanvii](https://github.com/Layanvii)
-
-<div align="center">
-
-*Building thoughtful systems. Turning ideas and research into technology.*
-
-</div>
+- Saudi Patent **SA 20448** — Digital Visual Diagnostic System for Biomarker Analysis via Nail Morphology.
+- First place at **Munjam Al-Afkar Camp** for a Digital Instant Screening Technology project.
+- Represented Saudi Arabia as a player on the national team at the **IESF World Championship** in Counter-Strike.
+- Oracle Student Ambassador and student technology-community contributor.
